@@ -1,0 +1,24 @@
+*{
+    background-color: bisque;
+}
+p{
+    background-color: aliceblue;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+    padding-top: 7.5%;
+    height: 5em;
+    width: 10em;
+}
+#dice{
+    font-size: x-large;
+    font-weight: bolder;
+    background-color: aliceblue;
+    border-radius: 6%;
+    border: 10%;
+}
+#dice:hover{
+    color: aliceblue;
+    font-weight: bolder;
+    background-color: black;
+}
